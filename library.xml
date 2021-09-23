@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<library>
+    <catalogue category="technical">
+        <book isbn="978-3-16-148410-0">
+            <title>My Lovely JavaScript Program</title>
+            <author>Fr Ted Crilly</author>
+        </book>
+        <book isbn="678-3-34-54678-6">
+            <title>Spider Babies</title>
+            <author>Fr Dougal McGuire</author>
+        </book>
+    </catalogue>
+    <catalogue category="cookery">
+        <book isbn="124-4-56-78901-3">
+            <title>Cooking with Girls</title>
+            <author>Fr Jack Hackett</author>
+        </book>
+        <book isbn="567-3-35-67345-6">
+            <title>Making a fine cup of tea</title>
+            <author>Mrs Doyle</author>
+        </book>
+    </catalogue>
+</library>
